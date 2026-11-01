@@ -5,7 +5,7 @@ An Arduino-based alcohol detection system designed to prevent vehicle operation 
 
 ## Hardware Prototype
 
-![Alcohol Detection System](images/hardware-prototype.jpg)
+![Alcohol Detection System](images/pic.jpeg)
 
 ## Project Overview
 
